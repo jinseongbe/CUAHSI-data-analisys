@@ -1,0 +1,912 @@
+Var_lst,IndexNum
+"1,1,1 Trichloroethane",chemical
+"1,2 Dichlorobenzene",chemical
+"1,2 Dichloroethane",chemical
+"1,2-Dichloroethane",chemical
+"1,2,3 Trichlorobenzene",chemical
+"1,2,4 Trichlorobenzene",chemical
+"1,3 Dichlorobenzene",chemical
+"1,3,5 Trichlorobenzene",chemical
+"1,4 Dichorobenzene",chemical
+2-Butoxyethanol,chemical
+"2,4 DB",chemical
+"2,4-Dichlorophenoxyacetic acid",chemical
+4-Chlor-2-Nitrotoluene,chemical
+4-Nonyl-Phenol,chemical
+Absorbance,physical
+Acenaphthene,chemical
+Acenaphthylene,chemical
+Acetophenone,chemical
+acid neutralizing capacity,chemical
+Acid neutralizing capacity,chemical
+"Acidity, CO2 acidity",chemical
+"Acidity, hot",chemical
+"Acidity, mineral acidity",chemical
+"Acidity, total acidity",chemical
+Acoustic Doppler Velocity Meter signal to noise ratio,physical
+"Acoustic signal strength, units specified in data descriptor",physical
+"Air gap, feet",physical
+Albedo,physical
+"Alkalinity, bicarbonate",chemical
+"Alkalinity, carbonate",chemical
+"Alkalinity, carbonate plus bicarbonate",chemical
+"Alkalinity, total",chemical
+"Alkalinity, total ",chemical
+"Altitude, feet above mean sea level",physical
+Aluminium,chemical
+Aluminium ,chemical
+Aluminum,chemical
+"Aluminum, dissolved",chemical
+"Aluminum, total",chemical
+"Ammonia (NH3 + NH4+), water, dissolved, pounds per day as nitrogen",chemical
+"Ammonia (NH3 + NH4+), water, filtered, milligrams per liter as nitrogen",chemical
+"Ammonia (NH3 + NH4+), water, unfiltered, pounds of nitrogen per day",chemical
+"Ammonia plus organic nitrogen, water, unfiltered, milligrams per liter as nitrogen",chemical
+"Ammonia plus organic nitrogen, water, unfiltered, pounds of nitrogen per day",chemical
+Anion Sum,chemical
+Anthracene,chemical
+Antimony,chemical
+"Antimony, dissolved",chemical
+"Antimony, total",chemical
+"Antimony, total ",chemical
+Area,physical
+Argon,chemical
+"Argon, dissolved",chemical
+Arsenic,chemical
+"Arsenic, dissolved",chemical
+"Arsenic, dissolved ",chemical
+"Arsenic, total",chemical
+Asteridae coverage,physical
+"Atmospheric water vapor density, grams per cubic meter",physical
+"Atmospheric water vapor pressure, calculated, kilopascals",physical
+Atrazine,chemical
+"Attenuation corrected backscatter, uncalibrated from LISST-ABS instrument, in counts",physical
+Azoxystrobin,chemical
+Barium,chemical
+"Barium, dissolved",chemical
+"Barium, total",chemical
+"Barium, total ",chemical
+Barometric pressure,physical
+Barometric Pressure,physical
+"Barometric pressure (BP), uncorrected, pounds per square inch",physical
+"Barometric pressure, corrected to sea level, inches of mercury",physical
+"Barometric pressure, millimeters of mercury",physical
+"Barometric pressure, not corrected to sea level, millibars",physical
+"Barometric pressure, uncorrected, inches of mercury",physical
+"Barometric pressure, uncorrected, kilopascals",physical
+Batis maritima Coverage,chemical
+Battery voltage,physical
+"Bedload sediment discharge, short tons per day",physical
+"Bedload transport rate, derived by regression equation, megagrams per day",physical
+Benazolin,chemical
+Bentazone,chemical
+Benzene,chemical
+Benzo-(ghi)-perylene,chemical
+Benzo-a-anthracene,chemical
+Benzo-a-pyrene,chemical
+Benzo-b-fluoranthene,chemical
+Benzo-k-fluoranthene,chemical
+Benzo(B+K)Fluoranthene,chemical
+Benzo(ghi)perylene  and  Indeno(123-cd)pyrene,chemical
+"Beryllium, dissolved",chemical
+"Beryllium, total",chemical
+Bicarbonate,chemical
+Bis-(2-ethylhexyl) phthalate,chemical
+Bisphenol-A,chemical
+Bitertanol,chemical
+"Blue-green algae (cyanobacteria), phycocyanin",chemical
+BOD (ATU),chemical
+"BOD2, carbonaceous",chemical
+BOD5,chemical
+BOD5 ,chemical
+"BOD5, carbonaceous",chemical
+BODu,chemical
+Boron,chemical
+"Boron, dissolved",chemical
+"Boron, total",chemical
+Borrichia frutescens Coverage,chemical
+Boscalid,chemical
+"Bromide, dissolved",chemical
+"Bromide, total",chemical
+Bromine,chemical
+"Bromine, dissolved",chemical
+Bromoxynil,chemical
+Bulk Density,physical
+"Bulk electrical conductance, soil, decisiemens per meter",physical
+Bulk electrical conductivity,physical
+Butane,chemical
+Butyl Benzyl Phthalate,chemical
+Cadmium,chemical
+"Cadmium, dissolved",chemical
+"Cadmium, total",chemical
+"Cadmium, total ",chemical
+Calcium,chemical
+Calcium ,chemical
+"Calcium, dissolved",chemical
+"Calcium, total",chemical
+Carbofuran,chemical
+Carbon dioxide,chemical
+Carbon Dioxide,chemical
+Carbon dioxide flux,physical
+"Carbon Dioxide, dissolved",chemical
+"Carbon dioxide, soil gas, corrected for temperature and pressure, percent of soil gas",physical
+"Carbon dioxide, soil gas, uncorrected for temperature and pressure, percent of soil gas",physical
+"Carbon dioxide, water, dissolved, at the water surface, parts per million by volume of dissolved gases",chemical
+Carbon disulfide,chemical
+Carbon tetrachloride,chemical
+Carbon Tetrachloride,chemical
+Carbon to nitrogen molar ratio,chemical
+"Carbon-13, stable isotope ratio delta",chemical
+Carbon-14,chemical
+"Carbon, dissolved inorganic",chemical
+"Carbon, dissolved inorganic ",chemical
+"Carbon, dissolved organic",chemical
+"Carbon, Dissolved Organic",chemical
+"Carbon, dissolved total",chemical
+"Carbon, Organic Particulate",chemical
+"Carbon, particulate organic",chemical
+"Carbon, total",chemical
+"Carbon, total organic",chemical
+"Carbon, Total Organic",chemical
+Carbonate,chemical
+Cation Sum,chemical
+Cesium-137,chemical
+Charge Balance,chemical
+Chlorfenvinphos,chemical
+Chloride,chemical
+"Chloride, dissolved",chemical
+"Chloride, total",chemical
+"Chloride, water, dissolved, short tons per day",chemical
+"Chloride, water, filtered, estimated by regression equation, milligrams per liter",chemical
+"Chloride, water, filtered, milligrams per liter",chemical
+"Chloride, water, unfiltered, milligrams per liter",chemical
+Chlorine,chemical
+"Chlorine, dissolved",chemical
+Chloroform (Trichloromethane),chemical
+Chlorophyll (a+b+c),chemical
+Chlorophyll a,chemical
+"Chlorophyll a, corrected for pheophytin",chemical
+"Chlorophyll a, phytoplankton, chromatographic-fluorometric method, micrograms per liter",chemical
+"Chlorophyll a, total, in situ, fluorescence excitation at 370, 470, 525, 570, 590, 610 nm, fluorescence emission at 700 nm with correction for CDOM, ug/L",chemical
+"Chlorophyll a, water, fluorometric method, corrected, micrograms per liter",chemical
+"Chlorophyll a, water, in situ, in vivo fluorescence, micrograms per liter",chemical
+Chlorophyll b,chemical
+Chlorophyll c,chemical
+Chlorophyll Fluorescence,chemical
+"Chlorophyll fluorescence (fChl), total, water, in situ, fluorometric, 650-700 nm, relative fluorescence units (RFU)",chemical
+"Chlorophyll fluorescence (fChl), water, in situ, micrograms per liter as chlorophyll",chemical
+"Chlorophyll fluorescence (fChl), water, in situ, relative fluorescence units (RFU)",chemical
+"Chlorophyll, total, water, fluorometric, 650-700 nanometers, in situ sensor, micrograms per liter",physical
+"Chlorophyll, total, water, in situ, fluorometric, 650-700 nm, relative fluorescence units (RFU)",chemical
+"Chlorophylls, water, in situ, fluorometric method, excitation at 470 +-15 nm, emission at 685 +-20 nm, micrograms per liter",chemical
+"Chlorophylls, water, in situ, fluorometric method, excitation at 470 +-15 nm, emission at 685 +-20 nm, relative fluorescence units (RFU)",chemical
+Chlorothalonil,chemical
+Chlorpyrifos Ethyl,chemical
+Chlortoluron,chemical
+Chromium (III),chemical
+"Chromium (VI), dissolved",chemical
+"Chromium, dissolved",chemical
+"Chromium, dissolved ",chemical
+"Chromium, total",chemical
+Chrysene,chemical
+Clopyralid,chemical
+Cobalt,chemical
+Cobalt-60,chemical
+"Cobalt, dissolved",chemical
+"Cobalt, total",chemical
+COD,chemical
+"Coefficient used to adjust discharge, Slope-Q computation",physical
+"Coliform, fecal",chemical
+"Coliform, total",chemical
+"Collector dry exposure (time within recording interval that collector is open but should be closed), seconds",physical
+"Collector lid cycles in recording interval, number",physical
+"Collector wet exposure (time within recording interval that collector is open when it should be open), seconds",physical
+Color,physical
+Colored Dissolved Organic Matter,chemical
+"Colored dissolved organic matter fluorescence (fDOM), water, in situ, micrograms per liter as quinine sulfate equivalents (QSE)",chemical
+"Colored dissolved organic matter fluorescence (fDOM), water, in situ, milligrams per liter of carbon",chemical
+"Colored dissolved organic matter fluorescence (fDOM), water, in situ, relative fluorescence units (RFU)",chemical
+"Compaction, aquifer system, feet",physical
+"Compaction, sediment, feet",physical
+Container number,physical
+Copper,chemical
+"Copper, dissolved",chemical
+"Copper, total",chemical
+"Copper, total ",chemical
+"Count of samples collected by autosampler, number",physical
+Counter,physical
+Cuscuta spp. coverage,chemical
+Cyanazine,chemical
+Cyanide,chemical
+Cyproconazole,chemical
+Cyprodinil,chemical
+"Datalogger scan time per recording interval, seconds",physical
+"Datum offset, elevation of water leveling point in reference to established datum, feet",physical
+"DCP battery voltage, volts",physical
+delta-13C of C2H6,chemical
+delta-13C of C3H8,chemical
+delta-13C of C4H10,chemical
+delta-13C of CH4,chemical
+delta-13C of CO2,chemical
+delta-13C of DIC,chemical
+delta-13C of DOC,chemical
+delta-13C of POC,chemical
+delta-14C of DIC,chemical
+delta-14C of DOC,chemical
+delta-14C of POC,chemical
+delta-15N of PN,chemical
+delta-18O of H2O,chemical
+delta-2H of H2O,chemical
+delta-D of CH4,chemical
+delta-D of H2O,chemical
+Density,physical
+"Depth of sensor below water surface, feet",physical
+"Depth of sensor below water surface, meters",physical
+"Depth to water level, feet below land surface",physical
+Deuterium,chemical
+Di-n-butyl phthalate,chemical
+Diazinon,chemical
+"Dibenzo (a,h) anthracene",chemical
+Dicamba,chemical
+Dichlobenil,chemical
+Dichloromethane,chemical
+Dichloroprop,chemical
+Dichlorvos,chemical
+"Dielectric permittivity, soil, in situ",physical
+Diethyl Hexyl Phthalate,chemical
+Difenoconazole,chemical
+"Difference between observed and predicted water surface elevation, feet",physical
+Diflufenican,chemical
+Dimethoate,chemical
+Dioctyl phthalate,chemical
+"Direction of stream flow, magnetic azimuth, degrees",physical
+discharge,physical
+Discharge,physical
+"Discharge, cubic feet per day",physical
+"Discharge, cubic feet per second",physical
+"Discharge, cubic meters per second",physical
+"Discharge, cumulative, acre-feet",physical
+"Discharge, gallons per minute",physical
+"Discharge, instantaneous, cubic feet per second",physical
+"Discharge, tidally filtered, cubic feet per second",physical
+"Dissolved organic carbon (DOC), water, in situ, regression computed, milligrams per liter as carbon",chemical
+"Dissolved organic matter fluorescence (fDOM), water, in situ, concentration estimated from reference material, micrograms per liter as quinine sulfate equivalents (QSE)",chemical
+"Dissolved organic matter relative fluorescence (fDOM), water, in situ, relative fluorescence units (RFU)",chemical
+"Dissolved oxygen, water, unfiltered, milligrams per liter",chemical
+"Dissolved oxygen, water, unfiltered, percent of saturation",chemical
+"Dissolved solids dried at 180 degrees Celsius, water, filtered, milligrams per liter",physical
+"Dissolved solids, water, filtered, estimated by regression equation, milligrams per liter",physical
+"Dissolved solids, water, filtered, sum of constituents, milligrams per liter",physical
+"Dissolved solids, water, short tons per day",physical
+Distance,physical
+"Distance, observation point to sample location, feet",physical
+Distichlis spicata Coverage,chemical
+Diuron,chemical
+E-coli,chemical
+Electric Power,physical
+Electrical conductivity,physical
+Electrical Conductivity,physical
+"Elevation above NAVD 1988, feet",physical
+"Elevation above NGVD 1929, feet",physical
+"Elevation above NGVD 1929, meters",physical
+"Elevation of reservoir water surface above datum, feet",physical
+"Elevation of sample, feet",physical
+Enterococci,chemical
+Epoxiconazole,chemical
+"Estuary or ocean water surface elevation above NAVD 1988, feet",physical
+"Estuary or ocean water surface elevation above NGVD 1929, feet",physical
+Ethane,chemical
+"Ethane, dissolved",chemical
+Ethyl benzene,chemical
+Ethylbenzene,chemical
+Ethylene,chemical
+Ethylene glycol,chemical
+Ethylene Glycol,chemical
+"Ethylene, dissolved",chemical
+"Evaporation per recording interval, millimeters",physical
+"Evaporation total, inches per day",physical
+"Evaporation, accumulated, inches",physical
+"Evapotranspiration (ET) method, measured (1) or modeled (0), code",physical
+"Evapotranspiration, inches",physical
+"Evapotranspiration, millimeters per day",physical
+"Evapotranspiration, potential",physical
+Exchangeable acidity,chemical
+Fenpropidin,chemical
+Fenpropimorph,chemical
+Fenuron,chemical
+"Flow rate of well, gallons per minute",physical
+"Flow rate, instantaneous, gallons per minute",physical
+"Flow total during composite period, thousands of gallons",physical
+"Flow, in conduit or through a treatment plant, million gallons per day",physical
+Fluoranthene,chemical
+"Fluorescein fluorescence (fFL), water, in situ, concentration calibrated to reference material, micrograms per liter",chemical
+"Fluorescence at 650-700 nm as a fraction of incident light at 470 nm, measured in situ, percent",chemical
+Fluoride,chemical
+"Fluoride, dissolved",chemical
+"Fluoride, water, filtered, milligrams per liter",chemical
+Fluorine,chemical
+Fluoroxypyr,chemical
+Fluzilazole,chemical
+Frequency of rotation,physical
+Friction velocity,physical
+Gage height,physical
+Gage Height,physical
+"Gage height, above datum, meters",physical
+"Gage height, feet",physical
+"Gate opening, height, feet",physical
+"Gate opening, width, feet",physical
+"Gate openings, reservoir, all gates, feet",physical
+Global radiation,physical
+Global Radiation,physical
+Gross alpha radionuclides,chemical
+Gross beta radionuclides,chemical
+Gross primary productivity,chemical
+Groundwater Depth,physical
+"Groundwater level above Guam Vertical Datum of 2004, feet",physical
+"Groundwater level above NAVD 1988, feet",physical
+"Groundwater level above NGVD 1929, feet",physical
+"Groundwater level relative to Mean Sea Level (MSL), feet",physical
+"Hardness, Calcium",physical
+"Hardness, carbonate",physical
+"Hardness, Magnesium",physical
+"Hardness, total",physical
+Helium,chemical
+"Helium, dissolved",chemical
+Heptenophos,chemical
+Hexachlorobenzene,chemical
+Hexachlorobutadiene,chemical
+Hexane,chemical
+Hydrogen,chemical
+Hydron,chemical
+Imaginary dielectric constant,chemical
+Imaginary Dielectric Constant,chemical
+"Incident light intensity, 400-700 nanometers, microeinsteins per square meter per second",physical
+"Incident light, daily total, 400-700 nanometers, microeinsteins per square meter",physical
+"Incident solar radiation intensity, calories per square centimeter per day",physical
+"Indeno (1,2,3-cd) pyrene",chemical
+Indicator,physical
+Intercept,physical
+"Iodide, dissolved",chemical
+Ionized Ammonium,chemical
+ioxynil,chemical
+Iprodione,chemical
+"Iron, dissolved",chemical
+"Iron, dissolved ",chemical
+"Iron, ferric",chemical
+"Iron, ferrous",chemical
+"Iron, total",chemical
+"Iron, water, filtered, micrograms per liter",chemical
+"Irrigation depth, sprinkler, millimeters",physical
+Isobutane,chemical
+Isodrin,chemical
+Isopentane,chemical
+Isoproturon,chemical
+Iva frutescens coverage,chemical
+Kresoxim-Methyl,chemical
+"Lake or reservoir elevation above International Great Lakes Datum (IGLD), feet",physical
+"Lake or reservoir elevation above New York State Barge Canal Datum (NYBCD), feet",physical
+"Lake or reservoir elevation above United States Bureau of Reclamation Klamath Basin (USBRKB) Datum, feet",physical
+"Lake or reservoir water surface elevation above NAVD 1988, feet",physical
+"Lake or reservoir water surface elevation above NGVD 1929, feet",physical
+"Lake or reservoir water surface elevation above NGVD 1929, meters",physical
+Latent heat flux,physical
+"Latent-heat flux, watts per square meter",physical
+Latitude,physical
+Lead,chemical
+"Lead, dissolved",chemical
+"Lead, dissolved ",chemical
+"Lead, total",chemical
+"Lead, total ",chemical
+Limonium nashii Coverage,chemical
+Linuron,chemical
+Lithium,chemical
+"Lithium, dissolved",chemical
+"Lithium, total",chemical
+"Lithium, total ",chemical
+"Location in cross section, distance from left bank looking downstream, feet",physical
+"Location of Acoustic Doppler Velocity Meter cell end, feet",physical
+"Lockage, count of lock openings, units",physical
+Longitude,physical
+"Longwave radiation, downward intensity, watts per square meter",physical
+"Longwave radiation, upward intensity, watts per square meter",physical
+"Loss on ignition of suspended solids, water, unfiltered, milligrams per liter",physical
+"Loss on ignition of suspended solids, water, unfiltered, short tons per day",physical
+"Lower 90 percent prediction limit for SSC by regression (PCODE 99409), milligrams per liter",physical
+"Lower 90 percent prediction limit for suspended sediment load by regression (PCODE 80297), short tons per day",physical
+Loxynil,chemical
+Lycium carolinianum Coverage,chemical
+Magnesium,chemical
+"Magnesium, dissolved",chemical
+"Magnesium, total",chemical
+"Magnesium, total ",chemical
+Malathion,chemical
+Manganese,chemical
+"Manganese, dissolved",chemical
+"Manganese, total",chemical
+"Matric potential or pressure head, centimeters",physical
+"Maximum wave height, meters",physical
+MCPA,chemical
+MCPB,chemical
+"Mean water velocity for discharge computation, feet per second",physical
+"Mean water velocity for discharge computation, miles per hour",physical
+"Mean wave height, meters",physical
+"Mean wave period, seconds",physical
+Mecoprop,chemical
+Mercury,chemical
+"Mercury, dissolved",chemical
+"Mercury, dissolved ",chemical
+"Mercury, total",chemical
+Metalaxyl,chemical
+Metaldehyde,chemical
+Metazochlor,chemical
+Methane,chemical
+"Methane, dissolved",chemical
+Methanol,chemical
+Methiocarb,chemical
+Methyl tert-butyl ether (MTBE),chemical
+Methyl Tertiary Butyl Ether,chemical
+Methylene blue active substances,chemical
+Metoxyuron,chemical
+Metribuzin,chemical
+Mevinphos,chemical
+"Moisture content, soil, dry weight, percent",physical
+"Moisture content, soil, volumetric, fraction of total volume",physical
+"Moisture content, soil, volumetric, percent of total volume",physical
+"Molbydenum, dissolved",chemical
+Molybdenum,chemical
+"Molybdenum, total",chemical
+Monanthochloe littoralis Coverage,chemical
+Monolinuron,chemical
+NaN Counter,physical
+Naphthalene,chemical
+Napthalene,chemical
+"Net emitted longwave radiation, watts per square meter",physical
+"Net incident shortwave radiation, watts per square meter",physical
+"Net radiation (net solar + net long wave radiation), watts per square meter",physical
+"Net solar radiation, watts per square meter",physical
+Nickel,chemical
+"Nickel, dissolved",chemical
+"Nickel, dissolved ",chemical
+"Nickel, total",chemical
+"Nickel, total ",chemical
+"Nitrate plus nitrite, water, dissolved, pounds of nitrogen per day",chemical
+"Nitrate plus nitrite, water, filtered, milligrams per liter as nitrogen",chemical
+"Nitrate plus nitrite, water, in situ, milligrams per liter as nitrogen",chemical
+"Nitrate plus nitrite, water, total, short tons per day as nitrogen",chemical
+"Nitrate plus nitrite, water, unfiltered, milligrams per liter as nitrogen",chemical
+"Nitrate plus nitrite, water, unfiltered, pounds of nitrogen per day",chemical
+"Nitrate, water, filtered, milligrams per liter as nitrogen",chemical
+"Nitrate, water, in situ, milligrams per liter as nitrogen",chemical
+"Nitrogen-15, stable isotope ratio delta",chemical
+"Nitrogen, dissolved (free+ionized) Ammonia (NH3) + (NH4)",chemical
+"Nitrogen, dissolved inorganic",chemical
+"Nitrogen, dissolved kjeldahl",chemical
+"Nitrogen, dissolved Kjeldahl",chemical
+"Nitrogen, dissolved nitrate (NO3)",chemical
+"Nitrogen, dissolved nitrite (NO2)",chemical
+"Nitrogen, dissolved nitrite (NO2) + nitrate (NO3)",chemical
+"Nitrogen, dissolved organic",chemical
+"Nitrogen, Dissolved Organic",chemical
+"Nitrogen, gas",chemical
+"Nitrogen, inorganic",chemical
+"Nitrogen, NH3",chemical
+"Nitrogen, NH3 + NH4",chemical
+"Nitrogen, NH4",chemical
+"Nitrogen, nitrate (NO3)",chemical
+"Nitrogen, Nitrate (NO3)",chemical
+"Nitrogen, nitrite (NO2)",chemical
+"Nitrogen, nitrite (NO2) + nitrate (NO3)",chemical
+"Nitrogen, nitrite (NO2) nitrogen",chemical
+"Nitrogen, organic",chemical
+"Nitrogen, organic kjeldahl",chemical
+"Nitrogen, particulate",chemical
+"Nitrogen, particulate organic",chemical
+"Nitrogen, total",chemical
+"Nitrogen, Total",chemical
+"Nitrogen, total dissolved",chemical
+"Nitrogen, Total dissolved",chemical
+"Nitrogen, total kjeldahl",chemical
+"Nitrogen, total organic",chemical
+No vegetation coverage,chemical
+"Nonionic Detergents, total",chemical
+Nonylphenol Ethoxylate ,chemical
+NPEO130,chemical
+"Number of sampling points, count",physical
+o-Xylene ,chemical
+Octyl phenol,chemical
+Octylphenol Ethoxylate ,chemical
+Odor,chemical
+Offset,physical
+Oil and grease,chemical
+Oil and Grease,chemical
+OPEO130,chemical
+"Organic nitrogen, water, unfiltered, pounds of nitrogen per day",chemical
+Orientation,physical
+"Orthophosphate, water, dissolved, pounds per day",chemical
+"Orthophosphate, water, filtered, milligrams per liter as phosphorus",chemical
+"Orthophosphate, water, in situ, milligrams per liter as phosphorus",chemical
+"Orthophosphate, water, unfiltered, milligrams per liter as phosphorus",chemical
+"Orthophosphate, water, unfiltered, pounds of PO4 per day",chemical
+Osmotic pressure,physical
+Oxadixyl,chemical
+"Oxidation reduction potential, reference electrode not specified, millivolts",physical
+"Oxidised Nitrogen (as N), total",chemical
+Oxygen,chemical
+Oxygen-18,chemical
+"Oxygen-18, stable isotope ratio delta",chemical
+"Oxygen, dissolved",chemical
+"Oxygen, Dissolved",chemical
+"Oxygen, dissolved percent of saturation",chemical
+"Oxygen, dissolved Percent of Saturation",chemical
+"Oxygen, dissolved, transducer signal",chemical
+"Oxygen, soil gas, uncorrected for temperature and pressure, percent of soil gas",physical
+Ozone,chemical
+p-Xylene and m-Xylene,chemical
+Parathion Ethyl,chemical
+"PCBs, water, unfiltered, recoverable, grams per day",chemical
+Pencyuron,chemical
+Pendimethalin,chemical
+Pentachlorobenzene,chemical
+Pentane,chemical
+Perfluorobutanesulphonic acid,chemical
+Perfluorodecanesulphonic acid,chemical
+Perfluorodecanoic acid,chemical
+Perfluorododecanoic acid,chemical
+Perfluoroheptane sulphonic acid,chemical
+Perfluoroheptanoic acid,chemical
+Perfluorohexanesulphononic acid,chemical
+Perfluorohexanoic acid,chemical
+Perfluorononanoic acid,chemical
+Perfluorooctanesulphonamide,chemical
+Perfluorooctanesulphonic acid,chemical
+Perfluorooctanoic acid,chemical
+Perfluoropentanoic acid,chemical
+Perfluoroundecanoic acid,chemical
+Permittivity,physical
+pH,chemical
+"pH, water, unfiltered, field, standard units",chemical
+Phenanthrene,chemical
+Phenol,chemical
+"Phenolics, total",chemical
+Pheophytin,chemical
+"Phosphate, water, unfiltered, milligrams per liter as PO4",chemical
+"Phosphorus, dissolved",chemical
+"Phosphorus, dissolved organic",chemical
+"Phosphorus, Dissolved Organic",chemical
+"Phosphorus, Inorganic",chemical
+"Phosphorus, organic",chemical
+"Phosphorus, orthophosphate",chemical
+"Phosphorus, orthophosphate dissolved",chemical
+"Phosphorus, orthophosphate total",chemical
+"Phosphorus, ortophosphate",chemical
+"Phosphorus, particulate",chemical
+"Phosphorus, phosphate (PO4)",chemical
+"Phosphorus, total",chemical
+"Phosphorus, Total",chemical
+"Phosphorus, total dissolved",chemical
+"Phosphorus, Total Dissolved",chemical
+"Phosphorus, water, dissolved, pounds per day as phosphorus",chemical
+"Phosphorus, water, filtered, milligrams per liter as phosphorus",chemical
+"Phosphorus, water, unfiltered, milligrams per liter as phosphorus",chemical
+"Phosphorus, water, unfiltered, pounds of phosphorus per day",chemical
+"Phosphorus, water, unfiltered, short tons of phosphorus per day",chemical
+"Photosynthetically active radiation (average flux density on a horizontal surface during measurement interval), micromoles of photons per square meter per second",physical
+"Photosynthetically active radiation (total flux density on a horizontal surface during measurement interval), millimoles of photons per square meter",physical
+"Phycocyanin fluorescence (fPC), water, in situ, cells per milliliter",chemical
+"Phycocyanin fluorescence (fPC), water, in situ, micrograms per liter as phycocyanin",chemical
+"Phycocyanin fluorescence (fPC), water, in situ, relative fluorescence units (RFU)",chemical
+"Phycocyanin relative fluorescence (fPC), water, in situ, relative fluorescence units (RFU)",chemical
+"Phycocyanins (cyanobacteria), water, in situ, in vivo fluorescence, in vivo fluorescence units",chemical
+"Phycoerythrin fluorescence (fPE), water, in situ, relative fluorescence units (RFU)",chemical
+Picoxystrobin,chemical
+Pirimicarb,chemical
+Pirimiphos-methyl,chemical
+Position,physical
+Potassium,chemical
+"Potassium, dissolved",chemical
+"Potassium, total",chemical
+"Potassium, total ",chemical
+"Potential evapotranspiration (PET), calculated by Penman method, millimeters per hour",physical
+Precipitation,physical
+Precipitation snow adjusted,physical
+"Precipitation total for defined period, inches",physical
+"Precipitation, cumulative, inches",physical
+"Precipitation, intensity at given time, inches per minute",physical
+"Precipitation, millimeters",physical
+"Precipitation, total, inches",physical
+"Pressure, absolute",physical
+"Pressure, gauge",physical
+Program Signature,physical
+Prometryn,chemical
+Propane,chemical
+"Propane, dissolved",chemical
+Propetamphos,chemical
+Propiconazole,chemical
+Pyrene,chemical
+R87-86 of Sr,chemical
+"Radiation, incoming",physical
+"Radiation, incoming longwave",physical
+"Radiation, incoming PAR",physical
+"Radiation, incoming shortwave",physical
+"Radiation, incoming UV-A",physical
+"Radiation, net",physical
+"Radiation, net longwave",physical
+"Radiation, net PAR",physical
+"Radiation, net shortwave",physical
+"Radiation, outgoing longwave",physical
+"Radiation, outgoing PAR",physical
+"Radiation, outgoing shortwave",physical
+"Radiation, total incoming",physical
+Radium-226,chemical
+Radium-228,chemical
+Radon-222,chemical
+"Rate of change, feet per hour",physical
+"Raw sensor value, millivolts",physical
+Real dielectric constant,physical
+Real Dielectric Constant,physical
+Recorder code,physical
+Reduction potential,physical
+relative humidity,physical
+Relative humidity,physical
+Relative Humidity,physical
+"Relative humidity, percent",physical
+Reservoir storage,physical
+"Reservoir storage, acre feet",physical
+"Reservoir storage, acre-feet",physical
+"Reservoir storage, million gallons",physical
+"Reservoir storage, thousand acre feet",physical
+"Respiration, ecosystem",chemical
+"Rhodamine WT fluorescence (fRWT), water, in situ, concentration calibrated to reference material, milligrams per liter",chemical
+River width,physical
+Rubidium to Strontium molar ratio,chemical
+"Rubidium, dissolved",chemical
+Ruthenium-106,chemical
+Salicornia bigelovii coverage,chemical
+Salicornia virginica coverage,chemical
+Salinity,chemical
+"Salinity, water, unfiltered, milligrams per milliliter at 25 degrees Celsius",chemical
+"Salinity, water, unfiltered, parts per thousand",chemical
+"Salinity, water, unfiltered, practical salinity units at 25 degrees Celsius",chemical
+Sample accounting number,physical
+"Sample event, sampler is actively collecting a sample (1), code",physical
+"Sample frequency, code",physical
+"Sampling depth, feet",physical
+"Sampling depth, meters",physical
+Scan Counter,physical
+Secchi depth,physical
+"Sediment corrected acoustic backscatter (SCB), decibels",physical
+"Sediment, suspended",physical
+Selenium,chemical
+"Selenium, dissolved",chemical
+"Selenium, total",chemical
+"Selenium, total ",chemical
+Sensible heat flux,physical
+"Sensible-heat flux, watts per square meter",physical
+"Shortwave radiation, downward intensity, watts per square meter",physical
+"Shortwave radiation, upward intensity, watts per square meter",physical
+"Significant wave height, meters",physical
+"Significant wave period, seconds",physical
+Silica,chemical
+"Silica, dissolved",chemical
+Silicate,chemical
+Silicon,chemical
+"Silicon, dissolved",chemical
+"Silver, dissolved",chemical
+"Silver, total",chemical
+Simazine,chemical
+Slope,physical
+Snow depth,physical
+Snow Depth,physical
+"Snow depth, feet",physical
+"Snow depth, inches",physical
+"Snow depth, meters",physical
+snow water equivalent,physical
+Snow water equivalent,physical
+Sodium,chemical
+"Sodium adsorption ratio (SAR), water, estimated by regression equation, number",chemical
+"Sodium adsorption ratio (SAR), water, number",chemical
+"Sodium, dissolved",chemical
+"Sodium, fraction of cations",chemical
+"Sodium, total",chemical
+"Sodium, water, dissolved, short tons per day",chemical
+"Sodium, water, filtered, estimated by regression equation, milligrams per liter",chemical
+"Sodium, water, filtered, milligrams per liter",chemical
+Soil Organic Matter,chemical
+"Soil temperature, degrees Celsius",physical
+"Soil water matric potential, bars",physical
+"Soil-heat flux, watts per square meter",physical
+"Solar radiation (average flux density on a horizontal surface during measurement interval), kilowatts per square meter",physical
+"Solar radiation (average flux density on a horizontal surface during measurement interval), watts per square meter",physical
+"Solar radiation (total flux density on a horizontal surface during measurement interval), megajoules per square meter",physical
+"Solids, fixed dissolved",physical
+"Solids, total",physical
+"Solids, total dissolved",physical
+"Solids, total Dissolved",physical
+"Solids, total dissolved ",physical
+"Solids, total fixed",physical
+"Solids, total suspended",physical
+"Solids, total Suspended",physical
+"Solids, total volatile",physical
+"Solids, volatile suspended",physical
+Spartina alterniflora coverage,chemical
+Spartina spartinea coverage,chemical
+Specific conductance,physical
+Specific Conductance,physical
+"Specific conductance, non-temperature corrected, water, unfiltered, microsiemens per centimeter",physical
+"Specific conductance, water, unfiltered, laboratory, microsiemens per centimeter at 25 degrees Celsius",physical
+"Specific conductance, water, unfiltered, microsiemens per centimeter at 25 degrees Celsius",physical
+"Status of equipment alarm, codes specified in data descriptor",physical
+"Stream velocity, feet per second",physical
+"Stream water level elevation above NAVD 1988, in feet",physical
+"Stream water level elevation above NGVD 1929, in feet",physical
+streamflow,physical
+Streamflow,physical
+"Streamflow, daily, acre-feet",physical
+"Streptococci, fecal",chemical
+Strontium,chemical
+"Strontium, dissolved",chemical
+"Strontium, stable isotope ratio",chemical
+"Strontium, total",chemical
+Suaeda linearis coverage,chemical
+Suaeda maritima coverage,chemical
+Sulfate,chemical
+"Sulfate, dissolved",chemical
+"Sulfate, total",chemical
+"Sulfide, dissolved",chemical
+"Sulfide, total",chemical
+Sulfur,chemical
+"Surface area, acres",physical
+"Suspended sediment concentration, from uncalibrated sensor, milligrams per liter",physical
+"Suspended sediment concentration, milligrams per liter",physical
+"Suspended sediment concentration, water, unfiltered, estimated by regression equation, milligrams per liter",physical
+"Suspended sediment discharge, short tons per day",physical
+"Suspended sediment load, water, unfiltered, computed, the product of regression-computed suspended sediment concentration and streamflow, short tons per day",physical
+"Suspended sediment load, water, unfiltered, estimated by regression equation, pounds per second",physical
+"Suspended solids dried at 105 degrees Celsius, water, unfiltered, short tons per day",physical
+"Suspended solids remaining after ignition, water, unfiltered, milligrams per liter",physical
+"Suspended solids, water, unfiltered, milligrams per liter",physical
+Tebuconazole,chemical
+temperature,physical
+Temperature,physical
+"Temperature of sensor, degrees Celsius",physical
+"Temperature, air, degrees Celsius",physical
+"Temperature, air, degrees Fahrenheit",physical
+"Temperature, datalogger",physical
+"Temperature, dew point",physical
+"Temperature, Dew Point",physical
+"Temperature, internal, within data collection platform, degrees Celsius",physical
+"Temperature, intragravel water, degrees Celsius",physical
+"Temperature, sensor",physical
+"Temperature, soil, degrees Celsius",physical
+"Temperature, soil, degrees Fahrenheit",physical
+"Temperature, vent gas, volcanic, degrees Celsius",physical
+"Temperature, water, degrees Celsius",physical
+"Temperature, water, degrees Fahrenheit",physical
+Terbuthylazine,chemical
+Terbutryne,chemical
+Tetrachloroethene,chemical
+"Thallium, dissolved",chemical
+"Thallium, total",chemical
+Thorium,chemical
+Thorium-228,chemical
+Thorium-230,chemical
+Thorium-232,chemical
+"Thorium, dissolved",chemical
+Threshold,physical
+"Tidal elevation, NOS-averaged, NAVD88, feet",physical
+Tide Stage,physical
+"Tide stage, above datum, feet",physical
+"Tide stage, code",physical
+Time Stamp,physical
+Tin,chemical
+"Tin, dissolved",chemical
+"Tin, total",chemical
+Titanium,chemical
+"Titanium, dissolved",chemical
+Toluene,chemical
+"Total nitrogen [nitrate + nitrite + ammonia + organic-N], water, unfiltered, milligrams per liter",chemical
+"Total nitrogen [nitrate + nitrite + ammonia + organic-N], water, unfiltered, pounds of nitrogen per day",chemical
+"Total organic carbon, water, in situ, estimated, milligrams per liter",chemical
+"Total partial pressure of dissolved gases, water, unfiltered, millimeters of mercury",physical
+"Total partial pressure of dissolved gases, water, unfiltered, percent of saturation",physical
+Total petroleum hydrocarbons,chemical
+"Total sediment concentration, milligrams per liter",physical
+"Total sediment discharge, short tons per day",physical
+"Total solar radiation (direct + diffuse radiation on a horizontal surface), watts per square meter",physical
+"Transducer signal, depth sensing, millivolts",physical
+Transient species coverage,chemical
+Triadimefon,chemical
+Triadimenol,chemical
+Trichlopyr,chemical
+"Trichlorobenzene, total",chemical
+Trichloroethene ,chemical
+Trietazine,chemical
+Trifloxystrobin,chemical
+Trifluralin,chemical
+"Tritium (3H), Delta T of H2O",chemical
+Turbidity,physical
+"Turbidity, water, unfiltered, broad band light source (400-680 nm), detection angle 90 +-30 degrees to incident light, nephelometric turbidity units (NTU)",physical
+"Turbidity, water, unfiltered, Jackson Turbidity Units",physical
+"Turbidity, water, unfiltered, monochrome near infra-red LED light source, 780-900 nm, detection angle 0-45 degrees to incident light (backscatter), FBU",physical
+"Turbidity, water, unfiltered, monochrome near infra-red LED light source, 780-900 nm, multiple beam, detectors at multiple angles including 90 degrees, FNMU",physical
+"Turbidity, water, unfiltered, monochrome near infra-red LED light, 780-900 nm, detection angle 90 +-2.5 degrees, formazin nephelometric units (FNU)",physical
+"Turbidity, water, unfiltered, monochrome near infra-red LED light, 780-900 nm, detector angles at 90 +-2.5 degrees and 0-45 degrees, ratiometric, FBRU",physical
+"Turbidity, water, unfiltered, monochrome near infra-red LED light, 780-900 nm, detectors at multiple angles including 90 +-2.5 degrees, ratiometric correction, FNRU",physical
+"Turbidity, water, unfiltered, nephelometric turbidity units",physical
+"Type of quality assurance data associated with sample, code",physical
+"Underwater sound level related to sediment-generated noise, averaged from 1.0 to 1.5 kHz, decibels",physical
+"Upper 90 percent prediction limit for SSC by regression (PCODE 99409), milligrams per liter",physical
+"Upper 90 percent prediction limit for suspended sediment load by regression (PCODE 80297), short tons per day",physical
+Uranium,chemical
+Uranium-234,chemical
+Uranium-235,chemical
+Uranium-238,chemical
+"Uranium, dissolved",chemical
+Urea,chemical
+USGS Water Science Center special 99900,physical
+USGS Water Science Center special 99908,physical
+USGS Water Science Center special 99917,physical
+"UV fluorescence, water, in situ, single band, 370 nm excitation, 460 nm emission, relative fluorescence units (RFU)",chemical
+Vanadium,chemical
+"Vanadium, dissolved",chemical
+"Vanadium, total",chemical
+Vapor pressure,physical
+Vapor pressure deficit,physical
+Velocity,physical
+"Velocity at point in stream, feet per second",physical
+Vinclozolin,chemical
+Voltage,physical
+"Voltage ratio, voltage of transmitted electromagnetic pulse divided by the voltage of the returned pulse",physical
+"Voltage, volts",physical
+Volume,physical
+"Volume of water, total during measurement interval, liters",physical
+"Volumetric soil moisture content period, for internal control of sensor, milliseconds",physical
+Volumetric water content,physical
+Volumetric Water Content,physical
+Volumetric water content ,physical
+"Water column equivalent height, barometric",physical
+"Water column pressure, pounds per square inch",physical
+"Water content of snow, inches",physical
+Water depth,physical
+Water Depth,physical
+"Water depth, averaged",physical
+"Water depth, water surface to bottom, feet",physical
+"Water depth, water surface to bottom, meters",physical
+Water flux,physical
+Water level,physical
+Water Level,physical
+"Water level above marsh, feet",physical
+"Water level elevation above NAVD 1988, corrected for barometric pressure, feet",physical
+"Water level elevation above NGVD 1929, inclined (non-vertical) well, feet",physical
+"Water level, depth below measuring point, feet",physical
+Water Potential,physical
+Water Surface,physical
+"Water surface elevation difference between two locations, feet",physical
+Water vapor concentration,physical
+"Water velocity reading from field sensor, feet per second",physical
+Weather conditions,physical
+wind direction,physical
+Wind direction,physical
+Wind Direction,physical
+"Wind direction, degrees clockwise from true north",physical
+"Wind direction, horizontal standard deviation",physical
+Wind gust direction,physical
+"Wind gust direction, air, degrees clockwise from true north",physical
+Wind gust speed,physical
+"Wind gust speed, air, knots",physical
+"Wind gust speed, air, meters per second",physical
+"Wind gust speed, air, miles per hour",physical
+wind speed,physical
+Wind speed,physical
+Wind Speed,physical
+"Wind speed, knots",physical
+"Wind speed, meters per second",physical
+"Wind speed, miles per hour",physical
+Wrack coverage,chemical
+Xylene,chemical
+"Xylenes, total",chemical
+Zinc,chemical
+"Zinc, dissolved",chemical
+"zinc, total",chemical
+"Zinc, total",chemical
+Zirconium-95,chemical
